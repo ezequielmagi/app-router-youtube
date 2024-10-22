@@ -11,6 +11,7 @@ export default function Header (){
                 <Link className="m-2" href="/about"> About Us </Link>
                 <Link className="m-2" href="/contact-us"> Contact Us </Link>
                 <Link className="m-2" href="/users"> Users </Link>
+                <Link className="m-2" href="/categories"> Categories </Link>
             </div>
 
             </div>

@@ -42,7 +42,7 @@ export default function Users() {
 
     return (
         <div className="flex flex-col w-screen justify-center bg-slate-300 h-screen text-zinc-800">
-        <h1>Users</h1>
+        <h1>my Users</h1>
 
         {
             users.map((user) => (
